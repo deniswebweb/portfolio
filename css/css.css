@@ -356,3 +356,6 @@ ul{
     margin-inline-end: 0px;
     padding-inline-start: 18px;
 }
+mark {
+    background-color:rgb(176, 231, 121)
+}
